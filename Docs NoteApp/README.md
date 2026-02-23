@@ -46,8 +46,8 @@ Start the development server
 npm start
 
 🖼️ Result Screenshots
-<img src="./Result/1.png" width="800" />
-<img src="./Result/2.png" width="800" />
+<img src="./Result/1.png" width="800"  /><br/>
+<img src="./Result/2.png" width="800" /><br/>
 💡 How It Works
 
 Users can create notes dynamically.
